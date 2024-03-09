@@ -16,6 +16,5 @@ Console.WriteLine("Введите первое число промежутка: 
 int M = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите первое число промежутка: ");
 int N = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input rows: ");
 
 LineOfDigits(M, N);
