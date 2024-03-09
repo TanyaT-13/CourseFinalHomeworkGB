@@ -12,9 +12,11 @@ void LineOfDigits(int M, int N)
     LineOfDigits(M + 1, N);
     
 }
-Console.WriteLine("Введите первое число промежутка: ");
-int M = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите первое число промежутка: ");
-int N = Convert.ToInt32(Console.ReadLine());
+LineOfDigits(2, 15);
 
-LineOfDigits(M, N);
+// А можно вместо последней строки сделать ввод чисел промежутка с консоли:
+// Console.WriteLine("Введите первое число промежутка: ");
+// int M = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите первое число промежутка: ");
+// int N = Convert.ToInt32(Console.ReadLine());
+// LineOfDigits(M, N);
