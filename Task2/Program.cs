@@ -15,7 +15,7 @@ int FindAckermann(int m, int n)
     {
         return FindAckermann(m - 1, FindAckermann(m, n - 1));
     }
-    return -1;
+    return 0;
 }
-Console.Write(FindAckermann(-2, 3));
+Console.Write(FindAckermann(2, -3));
 

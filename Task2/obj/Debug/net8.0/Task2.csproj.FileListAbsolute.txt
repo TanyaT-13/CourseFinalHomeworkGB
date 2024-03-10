@@ -12,3 +12,4 @@ C:\Users\Таня\OneDrive\Рабочий стол\Учеба_ГБ\CSharp\homewo
 C:\Users\Таня\OneDrive\Рабочий стол\Учеба_ГБ\CSharp\homeworkfinal\Task2\obj\Debug\net8.0\Task2.pdb
 C:\Users\Таня\OneDrive\Рабочий стол\Учеба_ГБ\CSharp\homeworkfinal\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
 C:\Users\Таня\OneDrive\Рабочий стол\Учеба_ГБ\CSharp\homeworkfinal\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\Таня\OneDrive\Рабочий стол\Учеба_ГБ\CSharp\homeworkfinal\Task2\obj\Debug\net8.0\Task2.sourcelink.json
